@@ -1,0 +1,4 @@
+fastapi
+pydantic
+jinja-2
+google

@@ -6,7 +6,7 @@ from fastapi.responses import HTMLResponse
 from fastapi.templating import Jinja2Templates
 from typing import List
 
-client = genai.Client(api_key="AIzaSyCa2MPCu5_X7UrWj21Haw8xr3G2tbOTCYk")
+client = genai.Client(api_key="AIzaSyBqgvf7L-oI4I37IWcyDNiHZxftWfbKGEA")
 templates = Jinja2Templates(directory="templates")
 
 app = FastAPI()
